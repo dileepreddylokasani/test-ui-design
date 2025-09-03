@@ -1,5 +1,5 @@
 
-  # EV Charging Station App
+  # testing github practise
 
   This is a code bundle for EV Charging Station App. The original project is available at https://www.figma.com/design/CbfwU0jWJytcGWJuAILQw7/EV-Charging-Station-App.
 
